@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vibe Site</string>
+    <string name="notification_channel_name">Background Playback</string>
+    <string name="notification_channel_description">Keeps the website playing and running continuously in the background</string>
+    <string name="notification_title">Vibe Site Running</string>
+    <string name="notification_text">Active in background. Tap to return.</string>
+    <string name="action_open">Open</string>
+    <string name="action_stop">Stop</string>
+    <string name="connection_error_title">Unable to load page</string>
+    <string name="connection_error_subtitle">Check your internet connection and try again.</string>
+    <string name="retry">Retry</string>
+</resources>

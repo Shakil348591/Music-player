@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Site",
+  "description": "Dedicated full-screen web app that opens your Vibe site directly and keeps playback and background tasks running continuously.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
